@@ -1,1 +1,0 @@
-aknowledge_case_studie
