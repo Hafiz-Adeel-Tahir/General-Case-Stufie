@@ -11,4 +11,5 @@ Projrect: https://consus.ironsidegroup.pk/ (Complete)
   Menu Icons Plugin
 Project: https://akramimpex.com.pk/ ()
   File Manager Customization by cPanel / hosting
+Project: Build site as similar => https://paramountbuilt.co.uk/ ()
 
