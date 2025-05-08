@@ -5,7 +5,7 @@ Projrect: https://zainain.com/ (Complete)
 Projrect: https://consus.ironsidegroup.pk/ (Complete)
   Elementor Pro
   Hot Ubix theme
-  Smart Slider
+  Smart Slider3
   Duplicate Page Plugin
   Max Mega Menu customization
   Menu Icons Plugin
