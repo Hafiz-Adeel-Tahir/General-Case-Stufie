@@ -9,7 +9,7 @@ Projrect: https://consus.ironsidegroup.pk/ (Complete) migrate into dev.consussol
   Duplicate Page Plugin
   Max Mega Menu customization
   Menu Icons Plugin
-  UpdraftPlus Plugin from migrate site
+  UpdraftPlus Plugin from migrate and backup of site
 Project: https://akramimpex.com.pk/ ()
   File Manager Customization by cPanel / hosting
 Project: Build site as similar => https://paramountbuilt.co.uk/ ()
