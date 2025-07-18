@@ -1,3 +1,4 @@
+task: connect wp with api
 Projrect: https://zainain.com/ (Complete)
   Avada theme customization
   Wp-Mail SMTP
